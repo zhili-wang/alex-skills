@@ -13,8 +13,9 @@
 **Claude Code 插件（推荐）**：
 
 ```bash
-# 本地安装
-/plugin install alx/alex-skills@alex-skills
+# 安装插件
+/plugin marketplace add zhili-wang/alex-skills
+/plugin install alex-skills@alex-skills
 ```
 
 **手动安装**：将 `CLAUDE.md` 内容合并到项目的 CLAUDE.md 中。
