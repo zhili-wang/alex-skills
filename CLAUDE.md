@@ -65,7 +65,7 @@ Strong success criteria let you loop independently. Weak criteria ("make it work
 **Medium/Complex changes must go through requirement clarification before writing specs.**
 
 When starting a non-trivial change:
-1. Scan requirements against the 8-category frontend ambiguity taxonomy (scope, UI/UX, components, data model, API, business rules, edge cases, non-functional quality)
+1. Scan requirements against the 8-category ambiguity taxonomy (scope, interface/integration, data model, tech selection, security/compliance, business rules, edge cases, non-functional quality)
 2. Mark each category: clear / partial / missing
 3. Generate up to 5 prioritized questions (impact × uncertainty)
 4. Ask one question at a time — each with a "why this matters" preamble and tradeoff notes on every option

@@ -4,20 +4,20 @@
     "name": "wzl"
   },
   "metadata": {
-    "description": "Personal skill library — requirement clarification, behavioral guidelines, and frontend development workflows",
+    "description": "Personal skill library — requirement clarification, behavioral guidelines, and development workflows",
     "version": "1.0.0"
   },
   "plugins": [
     {
       "name": "alex-skills",
-      "description": "Personal skill library — requirement clarification, behavioral guidelines, and frontend development workflows",
+      "description": "Personal skill library — requirement clarification, behavioral guidelines, and development workflows",
       "version": "1.0.0",
       "author": {
         "name": "wzl"
       },
       "source": "./skills/clarify",
       "license": "MIT",
-      "keywords": ["clarify", "requirements", "frontend", "best-practices"]
+      "keywords": ["clarify", "requirements", "best-practices"]
     }
   ]
 }
