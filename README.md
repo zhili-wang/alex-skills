@@ -23,7 +23,7 @@
 
 ## 行为准则
 
-全局行为准则（CLAUSE.md）受 [Andrej Karpathy 的观察](https://x.com/karpathy/status/2015883857489522876) 启发：
+全局行为准则（CLAUDE.md）受 [Andrej Karpathy 的观察](https://x.com/karpathy/status/2015883857489522876) 启发：
 
 1. **不假设，呈现权衡** — 说出假设，列出全部解读，每个选项附带 tradeoff
 2. **简洁克制** — 不过度追问、不推测需求、一个问题一个决策点
