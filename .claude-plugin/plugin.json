@@ -1,13 +1,14 @@
 {
   "name": "alex-skills",
-  "description": "Personal skill library — requirement clarification, behavioral guidelines, and frontend development workflows",
-  "version": "1.0.0",
+  "description": "Personal skill library — requirement clarification, architecture deepening, and development workflows",
+  "version": "2.0.0",
   "author": {
     "name": "wzl"
   },
   "license": "MIT",
-  "keywords": ["clarify", "requirements", "frontend", "best-practices"],
+  "keywords": ["clarify", "architecture", "deepening", "best-practices"],
   "skills": [
-    "./skills/clarify"
+    "./skills/clarify",
+    "./skills/deepen"
   ]
 }

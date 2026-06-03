@@ -4,20 +4,31 @@
     "name": "wzl"
   },
   "metadata": {
-    "description": "Personal skill library — requirement clarification, behavioral guidelines, and development workflows",
-    "version": "1.0.0"
+    "description": "Personal skill library — requirement clarification, architecture deepening, and development workflows",
+    "version": "2.0.0"
   },
   "plugins": [
     {
       "name": "alex-skills",
       "description": "Personal skill library — requirement clarification, behavioral guidelines, and development workflows",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "author": {
         "name": "wzl"
       },
       "source": "./skills/clarify",
       "license": "MIT",
       "keywords": ["clarify", "requirements", "best-practices"]
+    },
+    {
+      "name": "deepen",
+      "description": "Find deepening opportunities in a codebase — refactors that turn shallow modules into deep ones for testability and AI-navigability",
+      "version": "1.0.0",
+      "author": {
+        "name": "wzl"
+      },
+      "source": "./skills/deepen",
+      "license": "MIT",
+      "keywords": ["architecture", "deepening", "refactoring", "modules"]
     }
   ]
 }
